@@ -1,0 +1,6 @@
+chardet==3.0.4
+get==0.0.21
+post==0.0.13
+public==0.0.38
+request==0.0.13
+setupfiles==0.0.50
